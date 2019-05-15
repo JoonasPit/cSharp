@@ -1,0 +1,6 @@
+C:\Users\Joonas\source\repos\Maths\Maths\obj\Debug\Maths.csproj.CoreCompileInputs.cache
+C:\Users\Joonas\source\repos\Maths\Maths\bin\Debug\Maths.exe.config
+C:\Users\Joonas\source\repos\Maths\Maths\bin\Debug\Maths.exe
+C:\Users\Joonas\source\repos\Maths\Maths\bin\Debug\Maths.pdb
+C:\Users\Joonas\source\repos\Maths\Maths\obj\Debug\Maths.exe
+C:\Users\Joonas\source\repos\Maths\Maths\obj\Debug\Maths.pdb

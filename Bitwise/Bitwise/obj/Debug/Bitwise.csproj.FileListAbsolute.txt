@@ -1,0 +1,6 @@
+C:\Users\Joonas\source\repos\Bitwise\Bitwise\bin\Debug\Bitwise.exe.config
+C:\Users\Joonas\source\repos\Bitwise\Bitwise\bin\Debug\Bitwise.exe
+C:\Users\Joonas\source\repos\Bitwise\Bitwise\bin\Debug\Bitwise.pdb
+C:\Users\Joonas\source\repos\Bitwise\Bitwise\obj\Debug\Bitwise.csproj.CoreCompileInputs.cache
+C:\Users\Joonas\source\repos\Bitwise\Bitwise\obj\Debug\Bitwise.exe
+C:\Users\Joonas\source\repos\Bitwise\Bitwise\obj\Debug\Bitwise.pdb

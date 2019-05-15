@@ -1,0 +1,7 @@
+C:\Users\Joonas\source\repos\Avergae\Avergae\bin\Debug\Avergae.exe.config
+C:\Users\Joonas\source\repos\Avergae\Avergae\bin\Debug\Avergae.exe
+C:\Users\Joonas\source\repos\Avergae\Avergae\bin\Debug\Avergae.pdb
+C:\Users\Joonas\source\repos\Avergae\Avergae\obj\Debug\Avergae.csprojAssemblyReference.cache
+C:\Users\Joonas\source\repos\Avergae\Avergae\obj\Debug\Avergae.csproj.CoreCompileInputs.cache
+C:\Users\Joonas\source\repos\Avergae\Avergae\obj\Debug\Avergae.exe
+C:\Users\Joonas\source\repos\Avergae\Avergae\obj\Debug\Avergae.pdb

@@ -1,0 +1,6 @@
+C:\Users\Joonas\source\repos\Operators2\Operators2\bin\Debug\Operators2.exe.config
+C:\Users\Joonas\source\repos\Operators2\Operators2\bin\Debug\Operators2.exe
+C:\Users\Joonas\source\repos\Operators2\Operators2\bin\Debug\Operators2.pdb
+C:\Users\Joonas\source\repos\Operators2\Operators2\obj\Debug\Operators2.csproj.CoreCompileInputs.cache
+C:\Users\Joonas\source\repos\Operators2\Operators2\obj\Debug\Operators2.exe
+C:\Users\Joonas\source\repos\Operators2\Operators2\obj\Debug\Operators2.pdb
